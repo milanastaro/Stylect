@@ -1,7 +1,0 @@
-streamlit
-Pillow
-requests
-opencv-python
-numpy
-supabase
-python-dotenv
